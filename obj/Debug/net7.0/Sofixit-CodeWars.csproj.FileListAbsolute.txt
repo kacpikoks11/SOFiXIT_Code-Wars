@@ -1,0 +1,15 @@
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\bin\Debug\net7.0\Sofixit-CodeWars.exe
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\bin\Debug\net7.0\Sofixit-CodeWars.deps.json
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\bin\Debug\net7.0\Sofixit-CodeWars.runtimeconfig.json
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\bin\Debug\net7.0\Sofixit-CodeWars.dll
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\bin\Debug\net7.0\Sofixit-CodeWars.pdb
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.csproj.AssemblyReference.cache
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.AssemblyInfoInputs.cache
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.AssemblyInfo.cs
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.dll
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\refint\Sofixit-CodeWars.dll
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.pdb
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\Sofixit-CodeWars.genruntimeconfig.cache
+C:\Users\Kacper1\Desktop\c#\Sofixit-CodeWars\obj\Debug\net7.0\ref\Sofixit-CodeWars.dll
